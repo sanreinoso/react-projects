@@ -1,0 +1,23 @@
+{
+  "name": "my-react-js",
+  "version": "1.0.0",
+  "description": "Learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "App",
+    "Soccer",
+    "New"
+  ],
+  "author": "Santiago Reinoso",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
