@@ -30,9 +30,9 @@
 ***
 
 ### Mouse Hunting
-**Descripción:** En este proyecto, usamos el hook de react **useEffect**. Con el hook controlamos la suscripción a los eventos en el DOM, en este caso estaremos escuchando el evento *pointermove*  Para el cual dejo las siguientes notas.
+**Descripción:** En este proyecto, usamos el hook de react `useEffect`. Con el hook controlamos la suscripción a los eventos en el DOM, en este caso estaremos escuchando el evento *pointermove*  Para el cual dejo las siguientes notas.
 
-1. **Array vacío [ ]:** Se ejecuta el **useEffect()** una sola vez, solo cuando se monta el componente
+1. **Array vacío [ ]:** Se ejecuta el `useEffect` una sola vez, solo cuando se monta el componente
 2. **Array con dependencias [dep1, dep2, dep3, …]:** Ejecutará el método useEffect() cuando cambie alguna de sus dependencias o cuando se monta el componente
 3. **No se especifica el Array undefined** Se ejecuta cada vez que se renderiza el componente. 
 
@@ -48,8 +48,8 @@
 **Fecha de Culminación:** 18 de Octubre
 ***
 
+---
 
-Cada proyecto tiene su propio directorio con su código fuente y una carpeta "public" para archivos estáticos si es necesario.
-
-
-¡Espero que estos proyectos te sean útiles para aprender React! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+Santiago A. Reinoso H.  
+Cloud Developer - Team Leader  
+Email: [sanreinoso96@hotmail.com](mailto:sanreinoso96@hotmail.com)  
