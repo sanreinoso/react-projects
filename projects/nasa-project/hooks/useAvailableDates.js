@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-const API_KEY = "LyvHZn9m0OJsWUI9GrdJDIz6oKfhI7CmHM0NKCCR";
+const API_KEY = "<YOUR_KEY_HERE>";
 const QUERY_PARAM_API_KEY = `?api_key=${API_KEY}`;
 const NATURAL_DATES_AVAILABLE = "https://api.nasa.gov/EPIC/api/natural/available" + QUERY_PARAM_API_KEY;
 
