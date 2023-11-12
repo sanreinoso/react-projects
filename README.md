@@ -48,8 +48,15 @@
 **Fecha de Culminación:** 18 de Octubre
 ***
 
+### Santi Movies
+**Descripción:** Nuevo proyecto de React para aprender como se hacen peticiones y fetching de datos desde mi web. Usamos la API open source http://www.omdbapi.com/  
+1. Se crea una input para hacer la busqueda de peliculas y se recarga cada vez que se pide una nueva. 
+2. Creación de custom hooks y organización de la logica fuera de los componentes.
+3. Se hace uso de los nuevos hooks *useRef*, *useMemo*, *useCallback*  
+4. Aplicamos la tecnica de _debounce_, permite que una función se ejecute solo después de que haya pasado un cierto período de tiempo sin que ocurran eventos adicionales 
+5. Formulario de forma controlado y No controlada.
 
-Cada proyecto tiene su propio directorio con su código fuente y una carpeta "public" para archivos estáticos si es necesario.
+**Fecha de Culminación:** 12 de Noviembre
+***
 
 
-¡Espero que estos proyectos te sean útiles para aprender React! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
