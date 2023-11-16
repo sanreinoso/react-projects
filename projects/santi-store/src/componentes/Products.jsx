@@ -1,5 +1,6 @@
 import './Products.css'
 import { AddToCartIcon} from './Icons'
+import { useState } from 'react'
 
 export function Products({ products}) {
 
